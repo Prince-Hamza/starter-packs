@@ -50,7 +50,7 @@ const Test = () => {
     color: '#ff00ff',
     linkingURI: 'yourSchemeHere://chat/jane', // 
     parameters: {
-      delay: 5000,
+      delay: 30000,
     },
   };
 
